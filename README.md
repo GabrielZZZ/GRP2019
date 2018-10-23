@@ -12,5 +12,5 @@
 
 ## Here is the minutes of meetings:
 + First Meeting Before Bids
-+ [Second Meeting Before Bids](GRP2018/Meeting Records/Second Meeting Before Project Bidding.pdf)
++ [Second Meeting Before Bids](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181023.%20Second%20Formal%20Meeting.pdf)
 + 2018
