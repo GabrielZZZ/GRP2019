@@ -1,4 +1,4 @@
-# This is GRP 2018 Team 13's project! Welcome! :D
+# This is GRP 2018 Team 13's Project! Welcome! :D
 
 ## Here is the team details:
 + Team name: Team13
