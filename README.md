@@ -1,6 +1,6 @@
 # This is GRP 2018 Team 13's Project! Welcome! :D
 
-## Here is the team details:
+## Here is the Team details:
 + Team name: Team13
 + Team members: Fei Wang, Yifan Zhang, Dawen Feng, Yitu Wang, Peng Xiao
 
