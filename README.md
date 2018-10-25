@@ -15,7 +15,7 @@
 + [Second Meeting Before Bidding](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/Second%20Meeting%20Before%20Project%20Bidding.pdf)
 + [20181016 First Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181016.%20First%20Formal%20Meeting.jpg)
 + [20181019 Informal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181019.%20InFormal%20Meeting.jpg)
-+ [20181023 Second Informal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181023.%20Second%20Formal%20Meeting.pdf)
++ [20181023 Second Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181023.%20Second%20Formal%20Meeting.pdf)
 
 ## Here is the progress of the project:
 + [Project Progress](https://github.com/GabrielZZZ/GRP2018/projects/1)
