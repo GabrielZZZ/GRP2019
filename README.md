@@ -17,6 +17,7 @@
 + [20181019 Informal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181019.%20InFormal%20Meeting.jpg)
 + [20181023 Second Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181023.%20Second%20Formal%20Meeting.pdf)
 + [20181026 Informal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/Meeting-Rcording/Meeting%20Records/20181026%20Informal%20Meeting.pdf)
++ [20181030 Third Formal Meeting]()
 
 ## Here is the progress of the project:
 + [Project Progress](https://github.com/GabrielZZZ/GRP2018/projects/1)
