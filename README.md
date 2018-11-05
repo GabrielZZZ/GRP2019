@@ -18,7 +18,7 @@
 + [20181023 Second Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181023.%20Second%20Formal%20Meeting.pdf)
 + [20181026 Informal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/Meeting-Rcording/Meeting%20Records/20181026%20Informal%20Meeting.pdf)
 + [20181030 Third Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181030%20Third%20Formal%20Meeting.pdf)
-+ [20181103 Informal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181103.Meeting%20Minutes.Team%2013.pdf)
++ [20181103 Informal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181103.Meeting%20Minutes.Team%2013.pdf)(new!)
 
 ## Here is the progress of the project:
 + [Project Progress](https://github.com/GabrielZZZ/GRP2018/projects/1)
