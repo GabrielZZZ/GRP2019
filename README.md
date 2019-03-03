@@ -20,7 +20,7 @@ In the first Semester:
 + [20181120 The Sixth Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181120%20The%20Sixth%20Formal%20Meeting.pdf)
 + [20181127 The Seventh Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181127.%20The%20Seventh%20Formal%20Meeting.pdf)
 
-In Second Semester:
+In the Second Semester:
 + [20190226 The First Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20190226.%20The%20First%20Formal%20Meeting.pdf)(new!)
 
 
