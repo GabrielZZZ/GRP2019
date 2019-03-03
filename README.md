@@ -11,13 +11,18 @@
 + Project Supervisor: Dave Towey
 
 ## Here is the minutes of meetings:
+In the first Semester:
 + [20181016 The First Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181016.%20First%20Formal%20Meeting.jpg)
 + [20181023 The Second Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181023.%20Second%20Formal%20Meeting.pdf)
 + [20181030 The Third Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181030%20Third%20Formal%20Meeting.pdf)
 + [20181106 The Fourth Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181106%20Fourth%20Formal%20Meeting.pdf)
 + [20181113 The Fifth Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181113%20Fifth%20Formal%20Meeting%20Records.pdf)
 + [20181120 The Sixth Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181120%20The%20Sixth%20Formal%20Meeting.pdf)
-+ [20181127 The Seventh Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181127.%20The%20Seventh%20Formal%20Meeting.pdf)(new!)
++ [20181127 The Seventh Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181127.%20The%20Seventh%20Formal%20Meeting.pdf)
+
+In Second Semester:
++ [20190226 The First Formal Meeting]
+(https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20190226.%20The%20First%20Formal%20Meeting.pdf)(new!)
 
 
 ## Here is the progress of the project:
