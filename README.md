@@ -21,7 +21,8 @@ In the first Semester:
 + [20181127 The Seventh Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181127.%20The%20Seventh%20Formal%20Meeting.pdf)
 
 In the Second Semester:
-+ [20190226 The First Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20190226.%20The%20First%20Formal%20Meeting.pdf)(new!)
++ [20190226 The First Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20190226.%20The%20First%20Formal%20Meeting.pdf)
++ [20190305 The Second Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20190305.Meeting%20Record.Team13.pdf)(new!)
 
 
 ## Here is the progress of the project:
