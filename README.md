@@ -22,7 +22,7 @@ In the first Semester:
 
 In the Second Semester:
 + [20190226 The First Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20190226.%20The%20First%20Formal%20Meeting.pdf)
-+ [20190305 The Second Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20190305.Meeting%20Record.Team13.pdf)
++ [20190305 The Second Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20190305.%20The%20Second%20Formal%20Meeting.pdf)
 + [20190313 The Third Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20190313.%20Third%20Formal%20Meeting.pdf)(new!)
 
 
