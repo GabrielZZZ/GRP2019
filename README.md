@@ -11,7 +11,7 @@
 + Project Supervisor: Dave Towey
 
 ## Here is the minutes of meetings:
-In the first Semester:
+In the First Semester:
 + [20181016 The First Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181016.%20First%20Formal%20Meeting.jpg)
 + [20181023 The Second Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181023.%20Second%20Formal%20Meeting.pdf)
 + [20181030 The Third Formal Meeting](https://github.com/GabrielZZZ/GRP2018/blob/master/Meeting%20Records/20181030%20Third%20Formal%20Meeting.pdf)
