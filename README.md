@@ -29,4 +29,4 @@ In the Second Semester:
 ## Here is the progress of the project:
 + [Project Progress](https://github.com/GabrielZZZ/GRP2018/projects/1)
 
-## The final report of the project has now been uploaded.
+## The final report of the project has been uploaded.
